@@ -1,0 +1,14 @@
+ml_project/
+├── .github/
+│   └── workflows/
+│       └── ml_pipeline.yml
+├── src/
+│   ├── __init__.py
+│   ├── train.py
+│   ├── predict.py
+│   └── utils.py
+├── tests/
+│   ├── __init__.py
+│   └── test_model.py
+├── requirements.txt
+└── README.md 

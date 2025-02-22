@@ -1,1 +1,1 @@
-# docker-mlops-automations
+# mlops-automations-demo
